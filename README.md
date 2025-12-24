@@ -2,8 +2,7 @@
 Convert your openwakeword generated .onnx File to .tflite File
 
 If you are using the colab from openwakeword and get an error for missing .tflite File after training your model, then use this colab to convert your .onnx File to .tflite File!
-I have made colab for easy doing, too. Open it and follow the Steps below:  
-https://colab.research.google.com/drive/1R9rpJS99C-TZKZUd1iyoLl3cjyw-aYz7?usp=sharing  
+I have made colab for easy doing, too. Open it and follow the Steps below: https://colab.research.google.com/drive/1R9rpJS99C-TZKZUd1iyoLl3cjyw-aYz7?usp=sharing  
 
 <img width="55%" height="auto" alt="image" src="https://github.com/user-attachments/assets/1a8764fa-d97e-4724-91c5-8e3d8ce93bf7" />
 
