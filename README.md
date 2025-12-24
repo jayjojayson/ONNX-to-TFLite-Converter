@@ -1,11 +1,10 @@
 # ONNX to TFLite Converter 
 Convert your openwakeword generated .onnx File to .tflite File
 
-If you are using the colab from openwakeword and get an error for missing .tflite File then use this colab to convert your .onnx File to .tflite File!
-Original you find here the https://colab.research.google.com/drive/1q1oe2zOyZp7UsB3jJiQ1IFn8z5YfjwEb
-
+If you are using the colab from openwakeword and get an error for missing .tflite File after training your model, then use this colab to convert your .onnx File to .tflite File!
 I have made colab for easy doing, too. Open it and follow the Steps below:  
 https://colab.research.google.com/drive/1R9rpJS99C-TZKZUd1iyoLl3cjyw-aYz7?usp=sharing  
+
 <img width="55%" height="auto" alt="image" src="https://github.com/user-attachments/assets/1a8764fa-d97e-4724-91c5-8e3d8ce93bf7" />
 
 
@@ -20,16 +19,21 @@ Run the Script:
 - new generated .tflite File should be vissible in project folder now!
 
 
-
+---
 
 <details>
   <summary> <b>Manual (execute)</b></summary>  
   
   Manual:
   - if you want to do the steps manually, then you have to install these libaries to get the script working.
-  - after installation you can run the script.
+  - after installation you can run the script. The onnx file must be in same folder as your script.
   
   - <img width="836" height="530" alt="image" src="https://github.com/user-attachments/assets/57518cbc-4a90-4c6a-843b-6a04b811ffc2" />
 </details>
 
+---
+
 If you like the little Converter-Tool, I would appreciate a Star rating ⭐ from you. 🤗
+
+Original you find here the https://colab.research.google.com/drive/1q1oe2zOyZp7UsB3jJiQ1IFn8z5YfjwEb  
+Follow the steps described there to obtain your ONNX file.
